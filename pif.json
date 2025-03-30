@@ -1,10 +1,10 @@
 {
     "TYPE": "user",
     "TAGS": "release-keys",
-    "ID": "BP22.250221.010",
+    "ID": "BP22.250221.013",
     "BRAND": "google",
     "DEVICE": "oriole",
-    "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250221.010/13193326:user/release-keys",
+    "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250221.013/13218340:user/release-keys",
     "MANUFACTURER": "Google",
     "MODEL": "Pixel 6",
     "PRODUCT": "oriole_beta",
