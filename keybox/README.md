@@ -1,21 +1,45 @@
-## Usage
+# 🔐 Keybox Update Guide
 
-Follow these steps to generate and import `keybox.xml`:
+Follow these steps to convert and import your `keybox.xml` for use with **AxionAOSP**.
 
-1. **Place the `keybox.xml` file**  
-   Ensure your `keybox.xml` file is in the same directory as `kb.py`.
+---
 
-2. **Run the keybox generation script**  
-   ```python
-   ./kb.py
-   ```  
-   This will generate a new file: `keybox_pkcs8_priv.xml`.
+## 1. Visit the Keybox Update Tool
 
-3. **Use the generated file**  
-   Locate the newly created `keybox_pkcs8_priv.xml`.
+Go to the official website:
 
-4. **Import the keybox via spoofing settings**  
-   Import the modified keybox using Spoof Settings.
+👉 [https://axionaosp.github.io/](https://axionaosp.github.io/)
 
-5. **Reboot your device**  
-   Restart your system to apply the changes.
+---
+
+## 2. Upload Your Keybox
+
+- Tap the **three dots** in the top-right corner.
+- Select **"Keybox"** from the menu.
+- Choose **"Upload Keybox"**.
+- In the file manager, select your valid `keybox.xml`.
+
+---
+
+## 3. Download the Converted File
+
+- After processing, a new file named `keybox_pkcs8_priv.xml` will be generated.
+- Save this file to your device.
+
+---
+
+## 4. Import via Spoof Settings
+
+- Open the **Spoof Settings** app.
+- Navigate to the **Keybox Import** section.
+- Select the downloaded `keybox_pkcs8_priv.xml`.
+
+---
+
+## 5. Reboot Your Device
+
+- Restart your device to apply the updated keybox changes.
+
+---
+
+✅ **Done!** Your keybox has been successfully updated and imported.
